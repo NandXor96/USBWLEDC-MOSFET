@@ -3858,7 +3858,7 @@
   (gr_text "USBWLEDC" (at 53.4924 25.052) (layer "B.SilkS") (tstamp b968cc60-de15-4487-9a70-8562bf48d0c9)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom mirror))
   )
-  (gr_text "JLCJLCJLC" (at 29.5148 33.555356 90) (layer "B.SilkS") (tstamp fa6a1f47-c1c8-41ef-b912-5eb4876ad9fd)
+  (gr_text "JLCJLCJLCJLV" (at 29.5148 32.34107 90) (layer "B.SilkS") (tstamp fa6a1f47-c1c8-41ef-b912-5eb4876ad9fd)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
   )
   (gr_text "MAX\n3A" (at 59.2328 45.7708 90) (layer "F.SilkS") (tstamp 188dab9a-b5e2-437c-a6f0-806e2aef186b)
